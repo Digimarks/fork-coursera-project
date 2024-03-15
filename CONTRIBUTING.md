@@ -1,2 +1,2 @@
-# Contributing to Github Final Project Sarvar
+# Contributing to Coursera Project
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
